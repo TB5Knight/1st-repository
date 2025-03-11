@@ -1,6 +1,10 @@
 # kartmania
  Karting microgame
 
- This is a test with my karting micogame. 
  Taylor Burdgess
+ 
+ This is a test with my karting micogame. 
+
  The file is windows build only. 
+
+This is the first time I used Github and create an account.
